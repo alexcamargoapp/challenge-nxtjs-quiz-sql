@@ -41,7 +41,7 @@ export default function Home() {
         <QuizLogo />
         <Widget>
           <Widget.Header>
-            <h1>SQL ANSY COMMANDS</h1>
+            <h1>SQL ANSI COMMANDS</h1>
           </Widget.Header>
           <Widget.Content>
             <form onSubmit={function (infosDoEvento) {
